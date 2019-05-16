@@ -1,8 +1,8 @@
 ﻿# [LPC1114](https://github.com/sochub/LPC1114) 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 ####  qitas@qitas.cn
-#### 父级：[CH55系列](https://github.com/sochub/CH55)
-#### 归属：[8051](https://github.com/sochub/8051) 
+#### 父级：[NXP](https://github.com/sochub/NXP)
+#### 归属：[Cortex-M0](https://github.com/sochub/CM0) 
 
 ## [芯片简介](https://github.com/sochub/LPC1114/wiki)
 
@@ -28,12 +28,11 @@ LPC1114是NXP公司推出的一款ARM Cortex-M0 内核的32位单片机。它的
 * [参考资源](src/)
 * [模板工程](demo/)
 
-	
 ### [替换方案](https://github.com/sochub/LPC1114)
 
 
 ### [芯片应用](https://github.com/sochub/LPC1114)
 
-* [OS-Q：485管道设备L](https://github.com/OS-Q/D93)
+* [OS-Q：485终端设备](https://github.com/OS-Q/D129)
 
 ##  [SoC资源平台](http://www.qitas.cn)
