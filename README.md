@@ -22,6 +22,8 @@ LPC1114是NXP公司推出的一款ARM Cortex-M0 内核的32位单片机。它的
 * 最大限度降低功耗的集成式PMU(电源管理单元)
 * 3.3 V单电源(1.8 V至3.6 V)
 
+[![sites](SoC/QFP48.png)](https://www.nxp.com/cn/pip/LPC1114) 
+
 ### [资源组成](https://github.com/sochub/LPC1114)
 
 * [参考文档](docs/)
