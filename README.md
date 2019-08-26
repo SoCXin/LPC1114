@@ -1,10 +1,9 @@
 ﻿# [LPC1114](https://github.com/sochub/LPC1114) 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
-####  qitas@qitas.cn
-#### 父级：[NXP](https://github.com/sochub/NXP)
-#### 归属：[Cortex-M0](https://github.com/sochub/CM0) 
-
-## [芯片简介](https://github.com/sochub/LPC1114/wiki)
+#### 厂商：[NXP](https://github.com/sochub/NXP)
+#### 架构：[Cortex M0](https://github.com/sochub/CM0) 
+#### 芯片定级：[Level](https://github.com/sochub/Level)
+### [芯片简介](https://github.com/sochub/LPC1114/wiki)
 
 LPC1114是NXP公司推出的一款ARM Cortex-M0 内核的32位单片机。它的主频最大可达50MHz，内部集成时钟产生单元，不用外部晶振也可以工作。
 
@@ -24,17 +23,19 @@ LPC1114是NXP公司推出的一款ARM Cortex-M0 内核的32位单片机。它的
 
 [![sites](SoC/QFP48.png)](https://www.nxp.com/cn/pip/LPC1114) 
 
-### [资源组成](https://github.com/sochub/LPC1114)
+
+### [收录资源](https://github.com/sochub/LPC1114)
 
 * [参考文档](docs/)
 * [参考资源](src/)
 * [模板工程](demo/)
 
-### [替换方案](https://github.com/sochub/LPC1114)
+### [关联资源](https://github.com/sochub)
 
+* [arm-none-eabi编译器](https://github.com/sochub/arm-none-eabi)
 
-### [芯片应用](https://github.com/sochub/LPC1114)
+### [选型建议](https://github.com/sochub)
 
-* [OS-Q：485终端设备](https://github.com/OS-Q/D129)
+[LPC1114](https://github.com/sochub/LPC1114) 是STM32F系列单片机的有效补充和替换
 
 ##  [SoC资源平台](http://www.qitas.cn)
